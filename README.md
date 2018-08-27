@@ -28,3 +28,7 @@ dc.js to git-repo/js/
 dc.css to git-repo/js/
 
 nb: can load these from the CDN network, but for local dev convenience have these files locally.
+
+#load data from crossfilter API  
+https://github.com/square/crossfilter/wiki/API-Reference
+NB : same data as used in previous examples.
